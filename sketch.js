@@ -35,7 +35,7 @@ function setup() {
   trex.addAnimation("running",trex_running)
   trex.addAnimation("collided",trex_colided)
   trex.scale=0.5;
-  trex.setCollider("circle",0,0,50);    
+  trex.setCollider("circle",0,0,55);    
       
   console.log=true 
   
